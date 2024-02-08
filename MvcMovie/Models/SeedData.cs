@@ -52,6 +52,14 @@ public static class SeedData
                     Genre = "Love",
                     Rating = "G",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Arya",
+                    ReleaseDate = DateTime.Parse("1997-4-15"),
+                    Genre = "Love",
+                    Rating = "G",
+                    Price = 3.49M
                 }
             );
             context.SaveChanges();
