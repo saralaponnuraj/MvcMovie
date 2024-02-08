@@ -120,7 +120,9 @@ I could learn more about the Client-Side and Server-Side Validation: ASP.NET Cor
 Custom Validation Logic: Custom validation logic allows developers to implement specific business rules beyond standard annotations.
 Error Message Localization: ASP.NET Core MVC supports localization for error messages, enabling applications to display messages in different languages based on user preferences.
 
-2024-01-31
+
+
+2024-02-07
 Steps: Part 10
 
 Navigated to the Details Method: Locate and review the implementation of the Details method within the application. This method typically handles the retrieval and display of detailed information for a specific entity.
