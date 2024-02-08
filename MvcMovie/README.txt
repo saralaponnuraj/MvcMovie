@@ -1,7 +1,9 @@
-﻿Date: 2024-01-12
+﻿
+Lab1
+Date: 2024-01-12
 Time: 1109
 Student ID: 0850015
-
+ 
 Task1: Create a web app using ASP.NET Core MVC and Visual Studio
 
 Problem: 
@@ -11,7 +13,7 @@ How to run and test the web app locally?
 
 Solution:
 To install and configure the required tools and frameworks, i need to download and install Visual Studio 2022 Preview with the ASP.NET and web development workload. I installed .NET 8.0 (Long Term Support), which is the target framework for ASP.NET Core 8.0
-To create a new project using the ASP.NET Core Web App (Model-View-Controller) template, i need to start Visual Studio and select Create a new project. In the Create a new project dialog, select ASP.NET Core Web App (Model-View-Controller) > Next. In the Configure your new project dialog, entered MvcMovie for Project name as Lab1_Assignment and select Next. In the Additional information dialog, select .NET 8.0 (Long Term Support) and verified that Do not use top-level statements is unchecked. Then, selected Create
+To create a new project using the ASP.NET Core Web App (Model-View-Controller) template, i need to start Visual Studio and select Create a new project. In the Create a new project dialog, select ASP.NET Core Web App (Model-View-Controller) > Next. In the Configure your new project dialog, entered MvcMovie for Project name as MvcMovie and select Next. In the Additional information dialog, select .NET 8.0 (Long Term Support) and verified that Do not use top-level statements is unchecked. Then, selected Create
 To run and test the web app locally, i need to selected Ctrl+F5 to run the app without the debugger. Visual Studio will displayed a dialog to trust the IIS Express SSL certificate. Selected Yes if you trust the certificate. Then, Visual Studio will run the app and open the default browser.
 
 Task2:
